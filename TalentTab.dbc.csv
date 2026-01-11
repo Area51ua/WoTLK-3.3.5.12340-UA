@@ -1,5 +1,5 @@
 long,str,None,None,None,None,None,None,None,str,None,None,None,None,None,None,None,flags,long,long,flags,flags,flags,str,
-81,"Загадкова магія",,,,,,,,"Загадкова магія",,,,,,,,0xFF01FE,125,2047,0x80,0x0,0x0,"MageArcane",
+81,"Таємна магія",,,,,,,,"Таємна магія",,,,,,,,0xFF01FE,125,2047,0x80,0x0,0x0,"MageArcane",
 161,"Зброя",,,,,,,,"Зброя",,,,,,,,0xFF01FE,514,2047,0x1,0x0,0x0,"WarriorArms",
 182,"Ліквідація",,,,,,,,"Ліквідація",,,,,,,,0xFF01FE,514,2047,0x8,0x0,0x0,"RogueAssassination",
 201,"Духовенство",,,,,,,,"Духовенство",,,,,,,,0xFF01FE,685,2047,0x10,0x0,0x0,"PriestDiscipline",
